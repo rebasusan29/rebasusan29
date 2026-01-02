@@ -1,3 +1,5 @@
+# Hi, I’m Reba Susan Abraham 👋
+
 # 💫 About Me:
 🎓 B.Tech Electrical and Computer Engineering student at **Amrita Vishwa Vidyapeetham**  <br>🤖 Strong focus on **Artificial Intelligence & Machine Learning**  <br>📚 Research-driven and application-oriented learner  <br><br>I am an AI/ML-focused engineering student with a strong interest in building, analyzing, and optimizing machine learning and deep learning models. My work emphasizes **model efficiency**, **performance trade-offs**, and translating theoretical concepts into practical, real-world solutions.<br><br>I have hands-on experience working with deep learning optimization techniques such as **differentiable pruning**, along with exposure to **NLP and LLM-based systems**. I enjoy experimenting with model architectures, fine-tuning parameters, and evaluating results to understand how intelligent systems behave under different constraints.<br><br>Beyond AI/ML, I have contributed to interdisciplinary projects involving **blockchain-based secure systems** and **real-time embedded platforms**, which has strengthened my understanding of scalability, reliability, and system-level design. These experiences complement my AI/ML focus by enabling me to approach problems holistically.<br><br>Through research-oriented projects, internships, and continuous learning, I have developed a strong problem-solving mindset, adaptability, and a collaborative approach to engineering. I am motivated to contribute to impactful AI-driven solutions that address real-world challenges.<br>
 
@@ -11,6 +13,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=rebasusan29&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rebasusan29&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rebasusan29&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rebasusan29&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rebasusan29&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rebasusan29&icon=0&color=0)](https://visitcount.itsvg.in)
